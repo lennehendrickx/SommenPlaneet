@@ -7,8 +7,7 @@
     "target": "es5",
     "jsx": "react"
   },
-  "files": [
-    "./src/components/Hello.tsx",
-    "./src/index.tsx"
+  "include": [
+    "./src/**/*.tsx"
   ]
 }
